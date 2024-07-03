@@ -1,7 +1,9 @@
 from math import sqrt
-
-a,b,c=3,5,2
-print("Rezolvarea ecuatiei de gradul 2 : {0}X^2+{1}X+{2}=0".format(a,b,c))
+print("Rezolvarea ecuatiei de gradul 2. Introduceti a,b,c - (trebuie sa fie numere intregi)")
+a=int(input("a="))
+b=int(input("b="))
+c=int(input("c="))
+print("{0}X^2+{1}X+{2}=0".format(a,b,c))
 delta=pow(b,2)-4*a*c
 
 if delta<0:
