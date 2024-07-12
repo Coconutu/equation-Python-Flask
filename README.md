@@ -1,9 +1,10 @@
-# Rezolvarea ecuatiei de gradul 2
-1. 
-2.     -using:
-3.         -built in math sqrt, pow functions;
-4.         -input values from keyboard;
-5.         -if-elif-else statement
-6.         -basic math operations
-7. 
-8. 
+# Python/FLASK : Solving the equation of degree 2
+
+## Using:
+* -Flask
+* -built in math sqrt, pow functions;
+* -input values from keyboard;
+* -if-elif-else statement
+* -basic math operations
+
+![FLASK.png](FLASK.png)
